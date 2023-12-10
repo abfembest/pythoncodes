@@ -1,0 +1,7 @@
+NETSH wlan show profiles
+
+NETSH wlan show profiles wifiname
+
+security
+security key : present
+NETSH wlan show profiles iPhone key = clear
